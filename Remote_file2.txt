@@ -1,2 +1,2 @@
 Title remote file2
-Branch content remote file2
+Content remote file2
